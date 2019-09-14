@@ -1,0 +1,33 @@
+anchor_words_json = {
+    'engagement': ['engagement', 'contribute', 'involve', 'involvement', 'interest', 'excite',
+                   'passion', 'passionate', 'inspire', 'pride', 'joy'],
+    'mission': ['mission', 'pride', 'commit', 'value', 'commitment', 'core', 'mission', 'integrity', 'purpose',
+                'sense', 'dedicate', 'true'],
+    'daily_work': ['day', 'work', 'daily', 'basis', 'task', 'everyday', 'regular'],
+    'acquisitions/merger': ['acquisition', 'merger', 'acquire', 'transition', 'buyout', 'split', 'undergo',
+                            'takeover'],
+    'organization/structure': ['organization', 'structure', 'hierarchy', 'maneuverability', 'consistent',
+                               'coordinate', 'coordination', 'system', 'department', 'process'],
+    'manager/leader': ['manager', 'supervisor', 'management', 'boss', 'individual', 'leadership', 'lead',
+                       'manage', 'upper'],
+    'technology': ['technology', 'innovation', 'technological', 'innovative', 'innovate', 'edge', 'software',
+                   'hardware', 'upgrade', 'platform', 'windows', 'macintosh'],
+    'hiring': ['hiring', 'recruit', 'recruitment', 'candidate', 'recruiting', 'prescreening'],
+    'hr': ['hr','compliance', 'regulation', 'complaint', 'complain', 'safe', 'harass', 'sexually',
+           'verbally', 'abuse', 'bully'],
+    'opportunities/development': ['opportunity', 'growth', 'grow', 'advancement', 'career', 'chance',
+                                  'advance', 'develop', 'development', 'skill'],
+    'location': ['move', 'office', 'area', 'transfer', 'location', 'town', 'near', 'far'],
+    'company_future': ['company', 'change', 'stear', 'foretell', 'prepare', 'longrun',
+                       'ready', 'steer', 'future', 'forward'],
+    'co-workers': ['coworker', 'worker', 'coworkers', 'team', 'teammate',
+                   'peer'],
+    'benefits/pay': ['compensation', 'benefit', 'benefits', '401k', 'pto', 'match', 'vacation',
+                     'paid', 'pay', 'salary', 'wage'],
+    'culture': ['atmosphere', 'workplace', 'atmosphere', 'environment'],
+    'hostile/unhealthy environment': ['cutthroat', 'hostile', 'miserable', 'awful', 'backstabbing',
+                                      'toxic', 'abusive', 'unfriendly'],
+
+
+}
+

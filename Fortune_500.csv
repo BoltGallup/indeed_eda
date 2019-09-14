@@ -1,0 +1,501 @@
+Rank,company,revenue,employee,URL
+1,Walmart,"$514,405.00 ","2,200,000",https://www.indeed.com/cmp/Walmart
+2,Exxon Mobil,"$290,212.00 ","71,000",https://www.indeed.com/cmp/Exxonmobil
+3,Apple,"$265,595.00 ","132,000",https://www.indeed.com/cmp/Apple
+4,Berkshire Hathaway,"$247,837.00 ","389,000",https://www.indeed.com/cmp/Berkshire-Hathaway-Home-Services
+5,Amazon.com,"$232,887.00 ","647,500",https://www.indeed.com/cmp/Amazon.com
+6,UnitedHealth Group,"$226,247.00 ","300,000",https://www.indeed.com/cmp/UnitedHealth-Group
+7,McKesson,"$208,357.00 ","68,000",https://www.indeed.com/cmp/Mckesson
+8,CVS Health,"$194,579.00 ","295,000",https://www.indeed.com/cmp/CVS-Health
+9,AT&T,"$170,756.00 ","268,220",https://www.indeed.com/cmp/AT&T
+10,AmerisourceBergen,"$167,939.60 ","20,500",https://www.indeed.com/cmp/Amerisourcebergen
+11,Chevron,"$166,339.00 ","48,600",https://www.indeed.com/cmp/Chevron
+12,Ford Motor,"$160,338.00 ","199,000",https://www.indeed.com/cmp/Ford-Motor-Company
+13,General Motors,"$147,049.00 ","173,000",https://www.indeed.com/cmp/General-Motors
+14,Costco Wholesale,"$141,576.00 ","194,000",https://www.indeed.com/cmp/Costco-Wholesale
+15,Alphabet,"$136,819.00 ","98,771",https://www.indeed.com/cmp/Google
+16,Cardinal Health,"$136,809.00 ","50,200",https://www.indeed.com/cmp/Cardinal-Health
+17,Walgreens Boots Alliance,"$131,537.00 ","299,000",https://www.indeed.com/cmp/Walgreens
+18,JPMorgan Chase,"$131,412.00 ","256,105",https://www.indeed.com/cmp/JPMorgan-Chase
+19,Verizon Communications,"$130,863.00 ","144,500",https://www.indeed.com/cmp/Verizon
+20,Kroger,"$121,162.00 ","453,000",https://www.indeed.com/cmp/Kroger-Stores
+21,General Electric,"$120,268.00 ","283,000",https://www.indeed.com/cmp/GE-Corporate
+22,Fannie Mae,"$120,101.00 ","7,400",https://www.indeed.com/cmp/Fannie-Mae
+23,Phillips 66,"$114,217.00 ","14,200",https://www.indeed.com/cmp/Phillips-66
+24,Valero Energy,"$111,407.00 ","10,261",https://www.indeed.com/cmp/Valero
+25,Bank of America,"$110,584.00 ","204,489",https://www.indeed.com/cmp/Bank-of-America
+26,Microsoft,"$110,360.00 ","131,000",https://www.indeed.com/cmp/Microsoft
+27,Home Depot,"$108,203.00 ","413,000",https://www.indeed.com/cmp/The-Home-Depot
+28,Boeing,"$101,127.00 ","153,000",https://www.indeed.com/cmp/Boeing
+29,Wells Fargo,"$101,060.00 ","258,700",https://www.indeed.com/cmp/Wells-Fargo
+30,Citigroup,"$97,120.00 ","204,000",https://www.indeed.com/cmp/Citi
+31,Marathon Petroleum,"$97,102.00 ","60,350",https://www.indeed.com/cmp/Marathon-Oil
+32,Comcast,"$94,507.00 ","184,000",https://www.indeed.com/cmp/Comcast
+33,Anthem,"$92,105.00 ","63,900","https://www.indeed.com/cmp/Anthem,-Inc."
+34,Dell Technologies,"$90,621.00 ","157,000",https://www.indeed.com/cmp/Dell-Technologies
+35,DuPont de Nemours,"$85,977.00 ","98,000",https://www.indeed.com/cmp/Dupont
+36,State Farm Insurance,"$81,732.20 ","56,788",https://www.indeed.com/cmp/State-Farm-Mutual-Automobile-Insurance-Company
+37,Johnson & Johnson,"$81,581.00 ","135,100",https://www.indeed.com/cmp/Johnson-&-Johnson
+38,IBM,"$79,591.00 ","381,100",https://www.indeed.com/cmp/IBM
+39,Target,"$75,356.00 ","360,000",https://www.indeed.com/cmp/Target
+40,Freddie Mac,"$73,598.00 ","6,621",https://www.indeed.com/cmp/Freddie-Mac
+41,United Parcel Service,"$71,861.00 ","364,575",https://www.indeed.com/cmp/UPS
+42,Lowe's,"$71,309.00 ","245,000",https://www.indeed.com/cmp/Lowe's
+43,Intel,"$70,848.00 ","107,400",https://www.indeed.com/cmp/Intel
+44,MetLife,"$67,941.00 ","48,000",https://www.indeed.com/cmp/MetLife
+45,Procter & Gamble,"$66,832.00 ","92,000",https://www.indeed.com/cmp/Procter-&-Gamble
+46,United Technologies,"$66,501.00 ","240,200",https://www.indeed.com/cmp/United-Technologies-Corporation
+47,FedEx,"$65,450.00 ","359,000",https://www.indeed.com/cmp/FedEx
+48,PepsiCo,"$64,661.00 ","267,000",https://www.indeed.com/cmp/PepsiCo
+49,Archer Daniels Midland,"$64,341.00 ","31,600",https://www.indeed.com/cmp/Archer-Daniels-Midland
+50,Prudential Financial,"$62,992.00 ","50,492",https://www.indeed.com/cmp/Prudential
+51,Centene,"$60,116.00 ","47,300",https://www.indeed.com/cmp/Centene
+52,Albertsons,"$59,924.60 ","275,000",https://www.indeed.com/cmp/Albertsons
+53,Walt Disney,"$59,434.00 ","201,000",https://www.indeed.com/cmp/The-Walt-Disney-Company
+54,Sysco,"$58,727.30 ","67,000",https://www.indeed.com/cmp/Sysco
+55,HP,"$58,472.00 ","55,000",https://www.indeed.com/cmp/HP
+56,Humana,"$56,912.00 ","41,600",https://www.indeed.com/cmp/Humana
+57,Facebook,"$55,838.00 ","35,587",https://www.indeed.com/cmp/Facebook
+58,Caterpillar,"$54,722.00 ","104,000",https://www.indeed.com/cmp/Caterpillar
+59,Energy Transfer,"$54,436.00 ","11,768",https://www.indeed.com/cmp/Energy-Transfer
+60,Lockheed Martin,"$53,762.00 ","105,000",https://www.indeed.com/cmp/Lockheed-Martin
+61,Pfizer,"$53,647.00 ","92,400",https://www.indeed.com/cmp/Pfizer-Inc.
+62,Goldman Sachs Group,"$52,528.00 ","36,600",https://www.indeed.com/cmp/Goldman-Sachs
+63,Morgan Stanley,"$50,193.00 ","60,348",https://www.indeed.com/cmp/Morgan-Stanley
+64,Cisco Systems,"$49,330.00 ","74,200",https://www.indeed.com/cmp/Cisco
+65,Cigna,"$48,650.00 ","73,800",https://www.indeed.com/cmp/Cigna
+66,AIG,"$47,389.00 ","49,600",https://www.indeed.com/cmp/AIG
+67,HCA Healthcare,"$46,677.00 ","229,000",https://www.indeed.com/cmp/HCA-Corporate
+68,American Airlines Group,"$44,541.00 ","128,900",https://www.indeed.com/cmp/American-Airlines
+69,Delta Air Lines,"$44,438.00 ","88,680",https://www.indeed.com/cmp/Delta
+70,Charter Communications,"$43,634.00 ","98,000",https://www.indeed.com/cmp/Spectrum-1
+71,New York Life Insurance,"$43,425.30 ","11,388",https://www.indeed.com/cmp/New-York-Life
+72,American Express,"$43,281.00 ","59,000",https://www.indeed.com/cmp/American-Express
+73,Nationwide,"$43,270.00 ","30,472",https://www.indeed.com/cmp/Nationwide-Mutual-Insurance-Company
+74,Best Buy,"$42,879.00 ","125,000",https://www.indeed.com/cmp/Best-Buy
+75,Liberty Mutual Insurance Group,"$42,685.00 ","50,000",https://www.indeed.com/cmp/Liberty-Mutual
+76,Merck,"$42,294.00 ","69,000",https://www.indeed.com/cmp/Merck
+77,Honeywell International,"$41,802.00 ","114,000",https://www.indeed.com/cmp/Honeywell
+78,United Continental Holdings,"$41,303.00 ","92,000",https://www.indeed.com/cmp/United-Airlines
+79,TIAA,"$41,052.10 ","17,643",https://www.indeed.com/cmp/Tiaa
+80,Tyson Foods,"$40,052.00 ","121,000",https://www.indeed.com/cmp/Tyson-Foods-Incorporated
+81,Oracle,"$39,831.00 ","137,000",https://www.indeed.com/cmp/Oracle
+82,Allstate,"$39,815.00 ","45,420",https://www.indeed.com/cmp/Allstate-Insurance
+83,World Fuel Services,"$39,750.30 ","5,000",https://www.indeed.com/cmp/World-Fuel-Services
+84,Massachusetts Mutual Life Insurance,"$39,267.20 ","9,844",https://www.indeed.com/cmp/Massmutual-Financial-Group
+85,TJX,"$38,972.90 ","270,000","https://www.indeed.com/cmp/The-TJX-Companies,-Inc."
+86,ConocoPhillips,"$38,727.00 ","10,800",https://www.indeed.com/cmp/Conocophillips
+87,Deere,"$37,357.70 ","74,413",https://www.indeed.com/cmp/John-Deere
+88,Tech Data,"$37,239.00 ","14,000",https://www.indeed.com/cmp/Tech-Data
+89,Enterprise Products Partners,"$36,534.20 ","7,000",https://www.indeed.com/cmp/Enterprise-Products
+90,Nike,"$36,397.00 ","73,100",https://www.indeed.com/cmp/Nike
+91,Publix Super Markets,"$36,395.70 ","202,000",https://www.indeed.com/cmp/Publix
+92,General Dynamics,"$36,193.00 ","105,600",https://www.indeed.com/cmp/General-Dynamics-Information-Technology
+93,Exelon,"$35,985.00 ","33,383",https://www.indeed.com/cmp/Exelon
+94,Plains GP Holdings,"$34,055.00 ","4,900",https://www.indeed.com/cmp/Plains-All-American-Pipeline
+95,3M,"$32,765.00 ","93,516",https://www.indeed.com/cmp/3M
+96,AbbVie,"$32,753.00 ","30,000",https://www.indeed.com/cmp/Abbvie
+97,CHS,"$32,683.30 ","10,495",https://www.indeed.com/cmp/Chs-Inc.
+98,Capital One Financial,"$32,377.00 ","47,600",https://www.indeed.com/cmp/Capital-One
+99,Progressive,"$31,979.00 ","37,346",https://www.indeed.com/cmp/Progressive
+100,Coca-Cola,"$31,856.00 ","62,600",https://www.indeed.com/cmp/The-Coca--cola-Company-(tccc)
+101,USAA,"$31,367.80 ","33,689",https://www.indeed.com/cmp/Usaa
+102,Hewlett Packard Enterprise,"$30,852.00 ","60,000",https://www.indeed.com/cmp/Hewlett-Packard-Enterprise
+103,Abbott Laboratories,"$30,578.00 ","103,000",https://www.indeed.com/cmp/Abbott-Laboratories
+104,Twenty-First Century Fox,"$30,400.00 ","22,400",https://www.indeed.com/cmp/21st-Century-Fox
+105,Micron Technology,"$30,391.00 ","36,000","https://www.indeed.com/cmp/Micron-Technology,-Inc."
+106,Travelers,"$30,282.00 ","30,400",https://www.indeed.com/cmp/Travelers
+107,Rite Aid,"$30,215.40 ","48,410",https://www.indeed.com/cmp/Rite-Aid
+108,Northrop Grumman,"$30,095.00 ","85,000",https://www.indeed.com/cmp/Northrop-Grumman
+109,Arrow Electronics,"$29,676.80 ","20,100",https://www.indeed.com/cmp/Arrow-Electronics
+110,Philip Morris International,"$29,625.00 ","77,400",https://www.indeed.com/cmp/Philips
+111,Northwestern Mutual,"$29,124.00 ","5,870",https://www.indeed.com/cmp/Northwestern-Mutual
+112,INTL FCStone,"$27,622.70 ","1,701",https://www.indeed.com/cmp/Intl-Fcstone
+113,PBF Energy,"$27,186.10 ","3,266",https://www.indeed.com/cmp/Pbf-Energy
+114,Raytheon,"$27,058.00 ","67,000",https://www.indeed.com/cmp/Raytheon
+115,Kraft Heinz,"$26,259.00 ","39,000",https://www.indeed.com/cmp/Kraft-Heinz-Company
+116,Mondelez International,"$25,938.00 ","80,000",https://www.indeed.com/cmp/Mondelez-International
+117,U.S. Bancorp,"$25,775.00 ","75,772",https://www.indeed.com/cmp/U.S.-Bank
+118,Macy's,"$25,739.00 ","130,000",https://www.indeed.com/cmp/Macy's
+119,Dollar General,"$25,625.00 ","135,000",https://www.indeed.com/cmp/Dollar-General
+120,Nucor,"$25,067.30 ","26,300",https://www.indeed.com/cmp/Nucor
+121,Starbucks,"$24,719.50 ","291,000",https://www.indeed.com/cmp/Starbucks
+122,DXC Technology,"$24,556.00 ","150,000",https://www.indeed.com/cmp/Dxc-Technology
+123,Eli Lilly,"$24,555.70 ","38,680",https://www.indeed.com/cmp/Eli-Lilly
+124,Thermo Fisher Scientific,"$24,358.00 ","69,200",https://www.indeed.com/cmp/Thermo-Fisher-Scientific
+125,US Foods Holding,"$24,175.00 ","24,900",https://www.indeed.com/cmp/US-Foods
+126,Duke Energy,"$24,116.00 ","30,083",https://www.indeed.com/cmp/Duke-Energy
+127,Halliburton,"$23,995.00 ","60,000",https://www.indeed.com/cmp/Halliburton
+128,Cummins,"$23,771.00 ","62,610",https://www.indeed.com/cmp/Cummins
+129,Amgen,"$23,747.00 ","21,500",https://www.indeed.com/cmp/Amgen
+130,Paccar,"$23,495.70 ","28,000",https://www.indeed.com/cmp/Paccar-Inc.
+131,Southern,"$23,495.00 ","30,286",https://www.indeed.com/cmp/Southern-Company
+132,CenturyLink,"$23,443.00 ","45,000",https://www.indeed.com/cmp/Centurylink
+133,International Paper,"$23,306.00 ","53,000",https://www.indeed.com/cmp/International-Paper
+134,Union Pacific,"$22,832.00 ","41,967",https://www.indeed.com/cmp/Union-Pacific
+135,Dollar Tree,"$22,823.30 ","119,650",https://www.indeed.com/cmp/Dollar-Tree
+136,Penske Automotive Group,"$22,785.10 ","27,000",https://www.indeed.com/cmp/Penske
+137,Qualcomm,"$22,732.00 ","35,400",https://www.indeed.com/cmp/Qualcomm
+138,Bristol-Myers Squibb,"$22,561.00 ","23,300",https://www.indeed.com/cmp/Bristol--myers-Squibb
+139,Gilead Sciences,"$22,127.00 ","11,000",https://www.indeed.com/cmp/Gilead-Sciences
+140,Jabil,"$22,095.40 ","199,000",https://www.indeed.com/cmp/Jabil-Circuit
+141,ManpowerGroup,"$21,991.20 ","30,000",https://www.indeed.com/cmp/Manpower
+142,Southwest Airlines,"$21,965.00 ","58,803",https://www.indeed.com/cmp/Southwest-Airlines
+143,Aflac,"$21,758.00 ","11,390",https://www.indeed.com/cmp/AFLAC
+144,Tesla,"$21,461.30 ","48,817",https://www.indeed.com/cmp/Tesla
+145,AutoNation,"$21,412.80 ","26,000",https://www.indeed.com/cmp/Autonation
+146,CBRE Group,"$21,340.10 ","90,000",https://www.indeed.com/cmp/Cbre
+147,Lear,"$21,148.50 ","169,000",https://www.indeed.com/cmp/Lear-Corporation
+148,Whirlpool,"$21,037.00 ","92,000",https://www.indeed.com/cmp/Whirlpool-Corporation
+149,McDonald's,"$21,025.20 ","210,000",https://www.indeed.com/cmp/McDonald's
+150,Broadcom,"$20,848.00 ","15,000",https://www.indeed.com/cmp/Broadcom
+151,Marriott International,"$20,758.00 ","176,000","https://www.indeed.com/cmp/Marriott-International,-Inc."
+152,Western Digital,"$20,647.00 ","71,600",https://www.indeed.com/cmp/Western-Digital
+153,Visa,"$20,609.00 ","17,000",https://www.indeed.com/cmp/Visa
+154,Lennar,"$20,571.60 ","11,626",https://www.indeed.com/cmp/Lennar-Corporation
+155,WellCare Health Plans,"$20,414.10 ","12,000",https://www.indeed.com/cmp/Wellcare
+156,Kohl's,"$20,229.00 ","81,500",https://www.indeed.com/cmp/Kohl's
+157,AECOM,"$20,155.50 ","87,000",https://www.indeed.com/cmp/AECOM
+158,Synnex,"$20,053.80 ","231,600",https://www.indeed.com/cmp/Synnex-Corporation
+159,PNC Financial Services,"$19,993.00 ","51,996",https://www.indeed.com/cmp/Pnc-Financial-Services-Group
+160,Danaher,"$19,893.00 ","71,000",https://www.indeed.com/cmp/Danaher
+161,Hartford Financial Services,"$19,827.00 ","18,500",https://www.indeed.com/cmp/The-Hartford
+162,Altria Group,"$19,627.00 ","8,300",https://www.indeed.com/cmp/Altria
+163,Bank of New York Mellon,"$19,214.00 ","51,300",https://www.indeed.com/cmp/Bny-Mellon
+164,Fluor,"$19,166.60 ","53,349",https://www.indeed.com/cmp/Fluor-Corp.
+165,Avnet,"$19,036.90 ","15,400",https://www.indeed.com/cmp/Avnet
+166,Icahn Enterprises,"$18,979.00 ","29,034",https://www.indeed.com/cmp/Icahn-Enterprises
+167,Occidental Petroleum,"$18,934.00 ","11,000",https://www.indeed.com/cmp/Occidental-Petroleum
+168,Molina Healthcare,"$18,890.00 ","11,000",https://www.indeed.com/cmp/Molina-Healthcare
+169,Genuine Parts,"$18,735.10 ","50,000",https://www.indeed.com/cmp/Genuine-Parts-Company
+170,Freeport-McMoRan,"$18,628.00 ","26,800",https://www.indeed.com/cmp/Freeport--mcmoran
+171,Kimberly-Clark,"$18,486.00 ","41,000",https://www.indeed.com/cmp/Kimberly--clark
+172,Tenet Healthcare,"$18,313.00 ","102,795",https://www.indeed.com/cmp/Tenet-Healthcare
+173,Synchrony Financial,"$18,253.00 ","16,500",https://www.indeed.com/cmp/Synchrony
+174,CarMax,"$17,976.80 ","25,110",https://www.indeed.com/cmp/Carmax
+175,HollyFrontier,"$17,714.70 ","3,622",https://www.indeed.com/cmp/Hollyfrontier
+176,Performance Food Group,"$17,619.90 ","15,000",https://www.indeed.com/cmp/Performance-Food-Group
+177,Sherwin-Williams,"$17,534.50 ","53,368",https://www.indeed.com/cmp/Sherwin--williams
+178,Emerson Electric,"$17,408.00 ","87,500",https://www.indeed.com/cmp/Emerson
+179,NGL Energy Partners,"$17,282.70 ","2,400",https://www.indeed.com/cmp/Ngl-Energy-Partners
+180,XPO Logistics,"$17,279.00 ","100,000",https://www.indeed.com/cmp/Xpo-Logistics
+181,EOG Resources,"$17,275.40 ","2,800",https://www.indeed.com/cmp/Eog-Resources
+182,Applied Materials,"$17,253.00 ","21,000",https://www.indeed.com/cmp/Applied-Materials
+183,PG&E,"$16,759.00 ","24,000",https://www.indeed.com/cmp/Pacific-Gas-and-Electric-Company-(pg&E)
+184,NextEra Energy,"$16,727.00 ","14,300",https://www.indeed.com/cmp/Nextera-Energy
+185,C.H. Robinson Worldwide,"$16,631.20 ","15,262",https://www.indeed.com/cmp/C.h.-Robinson
+186,Gap,"$16,580.00 ","135,000",https://www.indeed.com/cmp/Gap
+187,Lincoln National,"$16,424.00 ","11,034",https://www.indeed.com/cmp/Lincoln-Financial
+188,DaVita,"$16,368.60 ","77,700",https://www.indeed.com/cmp/DaVita
+189,Jones Lang LaSalle,"$16,318.40 ","90,000",https://www.indeed.com/cmp/Jll
+190,WestRock,"$16,285.10 ","45,100",https://www.indeed.com/cmp/Westrock
+191,CDW,"$16,240.50 ","9,019",https://www.indeed.com/cmp/Cdw
+192,American Electric Power,"$16,195.70 ","17,582",https://www.indeed.com/cmp/American-Electric-Power-(aep)
+193,Cognizant Technology Solutions,"$16,125.00 ","281,600",https://www.indeed.com/cmp/Cognizant-Technology-Solutions
+194,D.R. Horton,"$16,068.00 ","8,437",https://www.indeed.com/cmp/D.r.-Horton
+195,Becton Dickinson,"$15,983.00 ","76,032",https://www.indeed.com/cmp/Bd
+196,Nordstrom,"$15,860.00 ","74,000",https://www.indeed.com/cmp/Nordstrom
+197,Netflix,"$15,794.30 ","7,100",https://www.indeed.com/cmp/Netflix
+198,Aramark,"$15,789.60 ","227,200",https://www.indeed.com/cmp/Aramark
+199,Texas Instruments,"$15,784.00 ","29,888","https://www.indeed.com/cmp/Texas-Instruments,-Inc"
+200,General Mills,"$15,704.40 ","40,000",https://www.indeed.com/cmp/General-Mills
+201,Supervalu,"$15,679.00 ","23,000",https://www.indeed.com/cmp/Supervalu-Inc.
+202,Colgate-Palmolive,"$15,544.00 ","34,500",https://www.indeed.com/cmp/Colgate--palmolive
+203,Goodyear Tire & Rubber,"$15,475.00 ","64,000",https://www.indeed.com/cmp/Goodyear
+204,PayPal Holdings,"$15,451.00 ","21,800",https://www.indeed.com/cmp/Paypal
+205,PPG Industries,"$15,374.00 ","47,300",https://www.indeed.com/cmp/Ppg-Industries
+206,Omnicom Group,"$15,290.20 ","70,400",https://www.indeed.com/cmp/Omnicom-Group
+207,Celgene,"$15,281.00 ","8,852",https://www.indeed.com/cmp/Celgene-Corporation
+208,Jacobs Engineering Group,"$14,984.60 ","77,600",https://www.indeed.com/cmp/Jacobs
+209,Ross Stores,"$14,983.50 ","88,100",https://www.indeed.com/cmp/Ross-Dress-For-Less
+210,Marsh & McLennan,"$14,950.00 ","66,000",https://www.indeed.com/cmp/Marsh-&-Mclennan-Companies
+211,Mastercard,"$14,950.00 ","14,800",https://www.indeed.com/cmp/Mastercard
+212,Land O'Lakes,"$14,936.20 ","10,000","https://www.indeed.com/cmp/Land-O%E2%80%99lakes,-Inc."
+213,Waste Management,"$14,914.00 ","43,700",https://www.indeed.com/cmp/Waste-Management-1
+214,Illinois Tool Works,"$14,768.00 ","48,000",https://www.indeed.com/cmp/Itw
+215,Ecolab,"$14,668.20 ","49,000",https://www.indeed.com/cmp/Ecolab
+216,Booking Holdings,"$14,527.00 ","24,500",https://www.indeed.com/cmp/Booking.com
+217,CBS,"$14,514.00 ","14,750",https://www.indeed.com/cmp/CBS-Corporation
+218,Parker-Hannifin,"$14,302.40 ","57,170",https://www.indeed.com/cmp/Parker-Hannifin
+219,Principal Financial,"$14,237.20 ","16,475",https://www.indeed.com/cmp/Principal-Financial-Group
+220,DTE Energy,"$14,212.00 ","10,600",https://www.indeed.com/cmp/Dte-Energy
+221,BlackRock,"$14,198.00 ","14,900",https://www.indeed.com/cmp/Blackrock-Inc.
+222,United States Steel,"$14,178.00 ","29,000",https://www.indeed.com/cmp/United-States-Steel
+223,Community Health Systems,"$14,155.00 ","78,500",https://www.indeed.com/cmp/Community-Health-Systems
+224,Kinder Morgan,"$14,144.00 ","11,012",https://www.indeed.com/cmp/Kinder-Morgan
+225,Qurate Retail,"$14,070.00 ","27,226",https://www.indeed.com/cmp/Qvc
+226,Loews,"$14,066.00 ","17,900",https://www.indeed.com/cmp/Loews-Hotels-&-Co
+227,Arconic,"$14,014.00 ","43,000",https://www.indeed.com/cmp/Arconic
+228,Stanley Black & Decker,"$13,982.40 ","60,767",https://www.indeed.com/cmp/Stanley-Black-&-Decker
+229,Textron,"$13,972.00 ","35,000",https://www.indeed.com/cmp/Textron
+230,Las Vegas Sands,"$13,729.00 ","51,500",https://www.indeed.com/cmp/Las-Vegas-Sands-Corp.
+231,Estee Lauder,"$13,683.00 ","46,000",https://www.indeed.com/cmp/The-Est%C3%A9e-Lauder-Companies-1
+232,DISH Network,"$13,621.30 ","16,000",https://www.indeed.com/cmp/Dish
+233,Stryker,"$13,601.00 ","36,000",https://www.indeed.com/cmp/Stryker
+234,Kellogg,"$13,547.00 ","34,000",https://www.indeed.com/cmp/Kellogg-Company
+235,Biogen,"$13,452.90 ","7,800",https://www.indeed.com/cmp/Biogen
+236,Alcoa,"$13,403.00 ","14,000",https://www.indeed.com/cmp/Alcoa
+237,Anadarko Petroleum,"$13,382.00 ","4,700",https://www.indeed.com/cmp/Anadarko-Petroleum-Corporation
+238,Dominion Energy,"$13,366.00 ","16,100",https://www.indeed.com/cmp/Dominion-Energy
+239,ADP,"$13,325.80 ","57,000",https://www.indeed.com/cmp/ADP
+240,salesforce.com,"$13,282.00 ","35,000",https://www.indeed.com/cmp/Salesforce
+241,L Brands,"$13,236.90 ","57,200",https://www.indeed.com/cmp/L-Brands
+242,Henry Schein,"$13,202.00 ","22,600",https://www.indeed.com/cmp/Henry-Schein
+243,Newell Brands,"$13,033.10 ","37,000",https://www.indeed.com/cmp/Newell-Brands
+244,Guardian Life Ins. Co. of America,"$13,014.90 ","9,556",https://www.indeed.com/cmp/Guardian-Life-Insurance-Company
+245,BJ's Wholesale Club,"$13,007.30 ","26,383",https://www.indeed.com/cmp/Bj's-Wholesale-Club
+246,BB&T Corp.,"$12,996.00 ","35,852",https://www.indeed.com/cmp/Bb&T
+247,State Street Corp.,"$12,973.00 ","40,142",https://www.indeed.com/cmp/State-Street
+248,Viacom,"$12,943.00 ","10,880",https://www.indeed.com/cmp/Viacom
+249,Ameriprise Financial,"$12,924.00 ","14,062",https://www.indeed.com/cmp/Ameriprise-Financial
+250,Core-Mark Holding,"$12,903.90 ","8,087","https://www.indeed.com/cmp/Core--mark-International,-Inc."
+251,Reinsurance Group of America,"$12,875.70 ","2,767",https://www.indeed.com/cmp/Reinsurance-Group-of-America
+252,VF,"$12,862.30 ","69,000",https://www.indeed.com/cmp/Vf-Corporation
+253,Discover Financial Services,"$12,848.00 ","16,600",https://www.indeed.com/cmp/Discover-Financial-Services
+254,Global Partners,"$12,672.60 ","2,500",https://www.indeed.com/cmp/Global-Partners
+255,Edison International,"$12,657.00 ","12,574",https://www.indeed.com/cmp/Edison-International
+256,Oneok,"$12,593.20 ","2,684",https://www.indeed.com/cmp/Oneok
+257,Murphy USA,"$12,524.00 ","6,800",https://www.indeed.com/cmp/Murphy-USA
+258,Bed Bath & Beyond,"$12,349.30 ","65,000",https://www.indeed.com/cmp/Bed-Bath-&-Beyond
+259,Consolidated Edison,"$12,337.00 ","15,307",https://www.indeed.com/cmp/Conedison-Solutions
+260,CSX,"$12,250.00 ","22,475",https://www.indeed.com/cmp/Csx
+261,J.C. Penney,"$12,019.00 ","95,000",https://www.indeed.com/cmp/Jcpenney
+262,LKQ,"$11,876.70 ","51,000",https://www.indeed.com/cmp/Lkq-Corporation
+263,FirstEnergy,"$11,864.00 ","12,494",https://www.indeed.com/cmp/Firstenergy
+264,Steel Dynamics,"$11,821.80 ","8,200",https://www.indeed.com/cmp/Steel-Dynamics
+265,Lithia Motors,"$11,821.40 ","13,643","https://www.indeed.com/cmp/Lithia-Motors,-Inc."
+266,MGM Resorts International,"$11,763.10 ","74,500",https://www.indeed.com/cmp/Mgm-Resorts-International
+267,Tenneco,"$11,763.00 ","81,000",https://www.indeed.com/cmp/Tenneco
+268,Nvidia,"$11,716.00 ","13,277",https://www.indeed.com/cmp/Nvidia
+269,Sempra Energy,"$11,687.00 ","16,823",https://www.indeed.com/cmp/Sempra-Energy
+270,Farmers Insurance Exchange,"$11,650.40 ","12,740",https://www.indeed.com/cmp/Farmers-Insurance-Group
+271,Ball,"$11,635.00 ","17,500",https://www.indeed.com/cmp/Ball-Corporation
+272,Group 1 Automotive,"$11,601.40 ","14,570",https://www.indeed.com/cmp/Group-1-Automotive
+273,Unum Group,"$11,598.50 ","9,600",https://www.indeed.com/cmp/Unum
+274,Xcel Energy,"$11,537.00 ","11,068",https://www.indeed.com/cmp/Xcel-Energy
+275,Reliance Steel & Aluminum,"$11,534.50 ","15,600",https://www.indeed.com/cmp/Reliance-Steel-&-Aluminum-Co.
+276,Huntsman,"$11,527.00 ","10,000",https://www.indeed.com/cmp/Huntsman
+277,Norfolk Southern,"$11,458.00 ","26,662",https://www.indeed.com/cmp/Norfolk-Southern-Corp
+278,Laboratory Corp. of America,"$11,333.40 ","61,000",https://www.indeed.com/cmp/Labcorp
+279,Corning,"$11,290.00 ","51,500",https://www.indeed.com/cmp/Corning
+280,Expedia Group,"$11,223.00 ","24,500",https://www.indeed.com/cmp/Expedia-Group
+281,AutoZone,"$11,221.10 ","72,450",https://www.indeed.com/cmp/Autozone
+282,W.W. Grainger,"$11,221.00 ","23,850",https://www.indeed.com/cmp/Grainger
+283,Quanta Services,"$11,171.40 ","39,200",https://www.indeed.com/cmp/Quanta-Services
+284,Crown Holdings,"$11,151.00 ","33,429",https://www.indeed.com/cmp/Crown-Cork-&-Seal
+285,Office Depot,"$11,130.00 ","44,000",https://www.indeed.com/cmp/Office-Depot-Officemax
+286,Baxter International,"$11,127.00 ","50,000",https://www.indeed.com/cmp/Baxter-Healthcare
+287,Lam Research,"$11,077.00 ","10,900",https://www.indeed.com/cmp/Lam-Research
+288,Entergy,"$11,009.50 ","13,688",https://www.indeed.com/cmp/Entergy
+289,Charles Schwab,"$10,989.00 ","19,500",https://www.indeed.com/cmp/Charles-Schwab
+290,L3 Technologies,"$10,841.00 ","31,000",https://www.indeed.com/cmp/L3-Technologies
+291,NRG Energy,"$10,797.00 ","4,862",https://www.indeed.com/cmp/Nrg-Energy
+292,Live Nation Entertainment,"$10,787.80 ","16,000",https://www.indeed.com/cmp/Live-Nation
+293,Universal Health Services,"$10,772.30 ","75,650",https://www.indeed.com/cmp/Universal-Health-Services-Inc.
+294,Molson Coors Brewing,"$10,769.60 ","17,750",https://www.indeed.com/cmp/Molson-Coors-Brewing-Company
+295,eBay,"$10,746.00 ","14,000",https://www.indeed.com/cmp/Ebay-Inc.
+296,AES,"$10,736.00 ","9,000",https://www.indeed.com/cmp/AES-Corporation
+297,Devon Energy,"$10,734.00 ","2,880",https://www.indeed.com/cmp/Devon-Energy
+298,Pacific Life,"$10,699.00 ","3,776",https://www.indeed.com/cmp/Pacific-Life
+299,CenterPoint Energy,"$10,589.00 ","7,977",https://www.indeed.com/cmp/Centerpoint-Energy
+300,Discovery,"$10,553.00 ","9,000",https://www.indeed.com/cmp/Discovery-Communications
+301,BorgWarner,"$10,529.60 ","30,000",https://www.indeed.com/cmp/Borgwarner
+302,Targa Resources,"$10,484.00 ","2,460",https://www.indeed.com/cmp/Targa-Resources
+303,Ally Financial,"$10,466.00 ","8,200",https://www.indeed.com/cmp/Ally-Financial
+304,SunTrust Banks,"$10,431.00 ","22,899",https://www.indeed.com/cmp/Suntrust
+305,IQVIA Holdings,"$10,412.00 ","58,000",https://www.indeed.com/cmp/Iqvia
+306,American Family Insurance Group,"$10,336.20 ","11,975",https://www.indeed.com/cmp/American-Family-Insurance
+307,Delek US Holdings,"$10,265.60 ","3,717",https://www.indeed.com/cmp/Delek-US-Holdings
+308,Navistar International,"$10,250.00 ","13,100","https://www.indeed.com/cmp/Navistar,-Inc."
+309,Chesapeake Energy,"$10,231.00 ","2,350",https://www.indeed.com/cmp/Chesapeake-Energy
+310,United Natural Foods,"$10,226.70 ","10,000",https://www.indeed.com/cmp/Unfi
+311,Leidos Holdings,"$10,194.00 ","32,000",https://www.indeed.com/cmp/Leidos
+312,PulteGroup,"$10,188.30 ","5,086","https://www.indeed.com/cmp/Pultegroup,-Inc"
+313,Eastman Chemical,"$10,151.00 ","14,595",https://www.indeed.com/cmp/Eastman-Chemical
+314,Republic Services,"$10,040.90 ","36,000",https://www.indeed.com/cmp/Republic-Services
+315,Mohawk Industries,"$9,983.60 ","42,100",https://www.indeed.com/cmp/Mohawk-Industries
+316,Sonic Automotive,"$9,951.60 ","9,700",https://www.indeed.com/cmp/Sonic-Automotive
+317,Owens & Minor,"$9,838.70 ","17,900",https://www.indeed.com/cmp/Owens-&-Minor
+318,Xerox,"$9,830.00 ","32,400",https://www.indeed.com/cmp/Xerox
+319,Boston Scientific,"$9,823.00 ","32,000",https://www.indeed.com/cmp/Boston-Scientific
+320,DCP Midstream,"$9,822.00 ","2,650",https://www.indeed.com/cmp/Dcp-Midstream
+321,Autoliv,"$9,801.10 ","62,091",https://www.indeed.com/cmp/Autoliv
+322,Interpublic Group,"$9,714.40 ","54,000",https://www.indeed.com/cmp/Interpublic-Group
+323,Public Service Enterprise Group,"$9,696.00 ","13,145",https://www.indeed.com/cmp/Pseg
+324,PVH,"$9,656.80 ","29,350",https://www.indeed.com/cmp/Pvh-Corp.
+325,Mosaic,"$9,587.30 ","13,600",https://www.indeed.com/cmp/Mosaic
+326,Advance Auto Parts,"$9,580.60 ","55,500",https://www.indeed.com/cmp/Advance-Auto-Parts
+327,Altice USA,"$9,566.60 ","11,993",https://www.indeed.com/cmp/Altice-USA
+328,Hormel Foods,"$9,545.70 ","20,100",https://www.indeed.com/cmp/Hormel-Foods
+329,O'Reilly Automotive,"$9,536.40 ","64,325",https://www.indeed.com/cmp/O'reilly-Auto-Parts
+330,Calpine,"$9,512.00 ","2,282",https://www.indeed.com/cmp/Calpine
+331,Hertz Global Holdings,"$9,504.00 ","38,000",https://www.indeed.com/cmp/Hertz-Dollar-Rent-A-Car
+332,First Data,"$9,498.00 ","19,000",https://www.indeed.com/cmp/First-Data
+333,Pioneer Natural Resources,"$9,415.00 ","3,177",https://www.indeed.com/cmp/Pioneer-Natural-Resources
+334,Coty,"$9,398.00 ","20,000",https://www.indeed.com/cmp/Coty-5
+335,AGCO,"$9,352.00 ","21,200",https://www.indeed.com/cmp/Agco-Corporation
+336,Mutual of Omaha Insurance,"$9,347.20 ","6,314",https://www.indeed.com/cmp/Mutual-of-Omaha
+337,Vistra Energy,"$9,144.00 ","5,275",https://www.indeed.com/cmp/Vistra-Energy
+338,Avis Budget Group,"$9,124.00 ","25,600",https://www.indeed.com/cmp/Avis-Budget-Group
+339,Adobe,"$9,030.00 ","21,357",https://www.indeed.com/cmp/Adobe
+340,Peter Kiewit Sons',"$9,025.00 ","20,000",https://www.indeed.com/cmp/Kiewit
+341,News Corp.,"$9,024.00 ","28,000",https://www.indeed.com/cmp/News-Corp-Australia
+342,Brighthouse Financial,"$8,965.00 ","1,260",https://www.indeed.com/cmp/Brighthouse-Financial
+343,Voya Financial,"$8,934.00 ","6,000",https://www.indeed.com/cmp/Voya-Financial
+344,Air Products & Chemicals,"$8,930.20 ","16,150",https://www.indeed.com/cmp/Air-Products
+345,Hilton Worldwide Holdings,"$8,906.00 ","169,000",https://www.indeed.com/cmp/Hilton
+346,GameStop,"$8,850.70 ","33,000",https://www.indeed.com/cmp/Gamestop
+347,Veritiv,"$8,696.20 ","8,700",https://www.indeed.com/cmp/Veritiv-Corporation
+348,Williams,"$8,686.00 ","5,322",https://www.indeed.com/cmp/Williams-Companies
+349,Campbell Soup,"$8,685.00 ","23,000",https://www.indeed.com/cmp/Campbell-Soup-Company
+350,Rockwell Collins,"$8,665.00 ","31,200",https://www.indeed.com/cmp/Collins-Aerospace
+351,Thrivent Financial for Lutherans,"$8,635.20 ","3,708",https://www.indeed.com/cmp/Thrivent
+352,Westlake Chemical,"$8,635.00 ","8,870",https://www.indeed.com/cmp/Westlake-Chemical
+353,Univar,"$8,632.50 ","8,500",https://www.indeed.com/cmp/Univar-Inc
+354,J.B. Hunt Transport Services,"$8,614.90 ","27,621",https://www.indeed.com/cmp/J.b.-Hunt
+355,Frontier Communications,"$8,611.00 ","21,173",https://www.indeed.com/cmp/Frontier-Communications
+356,Jones Financial (Edward Jones),"$8,594.00 ","47,000",https://www.indeed.com/cmp/Edward-Jones
+357,National Oilwell Varco,"$8,453.00 ","34,642",https://www.indeed.com/cmp/National-Oilwell-Varco
+358,Eversource Energy,"$8,448.20 ","7,998",https://www.indeed.com/cmp/Eversource-Energy
+359,Dick's Sporting Goods,"$8,436.60 ","27,950",https://www.indeed.com/cmp/Dick's-Sporting-Goods
+360,Genworth Financial,"$8,430.00 ","3,500",https://www.indeed.com/cmp/Genworth
+361,Fidelity National Information Services,"$8,423.00 ","47,000",https://www.indeed.com/cmp/Fis-Global
+362,Yum China Holdings,"$8,415.00 ","450,000","https://www.indeed.com/cmp/Yum!-Brands,-Inc."
+363,Ryder System,"$8,409.20 ","39,600",https://www.indeed.com/cmp/Ryder
+364,Anixter International,"$8,400.20 ","9,300",https://www.indeed.com/cmp/Anixter
+365,Caesars Entertainment,"$8,391.00 ","66,000",https://www.indeed.com/cmp/Caesars-Entertainment
+366,Masco,"$8,359.00 ","26,000",https://www.indeed.com/cmp/Masco
+367,Thor Industries,"$8,328.90 ","17,500",https://www.indeed.com/cmp/Thor-Industries
+368,Alaska Air Group,"$8,264.00 ","23,376",https://www.indeed.com/cmp/Alaska-Airlines
+369,Amphenol,"$8,202.00 ","73,600",https://www.indeed.com/cmp/Amphenol
+370,WESCO International,"$8,176.60 ","9,100",https://www.indeed.com/cmp/Wesco-International
+371,Huntington Ingalls Industries,"$8,176.00 ","40,000",https://www.indeed.com/cmp/Huntington-Ingalls-Industries
+372,Jefferies Financial Group,"$8,151.80 ","4,700",https://www.indeed.com/cmp/Jefferies-LLC
+373,Dana,"$8,143.00 ","30,900",https://www.indeed.com/cmp/Dana-Incorporated
+374,Expeditors Intl. of Washington,"$8,138.40 ","17,400",https://www.indeed.com/cmp/Expeditors
+375,EMCOR Group,"$8,130.60 ","33,000",https://www.indeed.com/cmp/Emcor
+376,Darden Restaurants,"$8,080.10 ","180,656",https://www.indeed.com/cmp/Darden-Restaurants
+377,SpartanNash,"$8,064.60 ","11,400",https://www.indeed.com/cmp/Spartannash
+378,Assurant,"$8,057.60 ","14,250",https://www.indeed.com/cmp/Assurant
+379,United Rentals,"$8,047.00 ","18,500","https://www.indeed.com/cmp/United-Rentals,-Inc."
+380,Liberty Media,"$8,040.00 ","4,641",https://www.indeed.com/cmp/Sirius-Xm-Radio
+381,Erie Insurance Group,"$8,030.70 ","5,547",https://www.indeed.com/cmp/Erie-Insurance-Group
+382,Auto-Owners Insurance,"$7,999.30 ","5,517",https://www.indeed.com/cmp/Auto--owners-Insurance
+383,Cheniere Energy,"$7,987.00 ","1,372","https://www.indeed.com/cmp/Cheniere-Energy,-Inc."
+384,Fifth Third Bancorp,"$7,973.00 ","17,437",https://www.indeed.com/cmp/Fifth-Third-Bank
+385,Foot Locker,"$7,939.00 ","32,401",https://www.indeed.com/cmp/Foot-Locker
+386,Conagra Brands,"$7,938.30 ","12,400",https://www.indeed.com/cmp/Con-Agra
+387,Zimmer Biomet Holdings,"$7,932.90 ","19,800",https://www.indeed.com/cmp/Zimmer-Biomet
+388,Tractor Supply,"$7,911.00 ","22,000",https://www.indeed.com/cmp/Tractor-Supply-Company
+389,Berry Global Group,"$7,869.00 ","24,000","https://www.indeed.com/cmp/Berry-Global,-Inc"
+390,Alliance Data Systems,"$7,791.20 ","20,000",https://www.indeed.com/cmp/Alliance-Data
+391,Hershey,"$7,791.10 ","15,675",https://www.indeed.com/cmp/The-Hershey-Company
+392,PPL,"$7,785.00 ","12,444",https://www.indeed.com/cmp/Ppl-Corporation
+393,Dean Foods,"$7,755.30 ","15,000",https://www.indeed.com/cmp/Dean-Foods-Company
+394,Builders FirstSource,"$7,724.80 ","15,000",https://www.indeed.com/cmp/Builders-Firstsource
+395,Oshkosh,"$7,705.50 ","15,000",https://www.indeed.com/cmp/Oshkosh-Corporation
+396,EnLink Midstream,"$7,699.00 ","1,449",https://www.indeed.com/cmp/Enlink-Midstream
+397,W.R. Berkley,"$7,691.70 ","7,448",https://www.indeed.com/cmp/W.r.-Berkley
+398,WEC Energy Group,"$7,679.50 ","7,878",https://www.indeed.com/cmp/Wec-Energy-Group
+399,JetBlue Airways,"$7,658.00 ","18,268",https://www.indeed.com/cmp/Jetblue-Airways-Corporation
+400,UGI,"$7,651.20 ","13,000",https://www.indeed.com/cmp/Ugi
+401,A-Mark Precious Metals,"$7,606.20 ",184,https://www.indeed.com/cmp/A--mark-Precious-Metals
+402,Fidelity National Financial,"$7,594.00 ","23,436",https://www.indeed.com/cmp/Fidelity-National-Financial
+403,Constellation Brands,"$7,585.00 ","9,600",https://www.indeed.com/cmp/Constellation-Brands
+404,Quest Diagnostics,"$7,531.00 ","46,000",https://www.indeed.com/cmp/Quest-Diagnostics
+405,Activision Blizzard,"$7,500.00 ","9,900",https://www.indeed.com/cmp/Activision-Blizzard
+406,Weyerhaeuser,"$7,476.00 ","9,300",https://www.indeed.com/cmp/Weyerhaeuser
+407,Raymond James Financial,"$7,475.80 ","13,900",https://www.indeed.com/cmp/Raymond-James
+408,Casey's General Stores,"$7,472.10 ","27,561",https://www.indeed.com/cmp/Casey's-General-Store
+409,Keurig Dr Pepper,"$7,442.00 ","25,500",https://www.indeed.com/cmp/Keurig-Dr-Pepper-Inc.
+410,American Tower,"$7,440.10 ","5,026",https://www.indeed.com/cmp/American-Tower
+411,Apache,"$7,424.00 ","3,420",https://www.indeed.com/cmp/Apache-Corporation
+412,Dover,"$7,395.80 ","24,000",https://www.indeed.com/cmp/Dover
+413,KeyCorp,"$7,393.00 ","18,180",https://www.indeed.com/cmp/Keybank
+414,J.M. Smucker,"$7,357.10 ","7,000",https://www.indeed.com/cmp/The-J.-M.-Smucker-Company
+415,Citizens Financial Group,"$7,354.00 ","18,140",https://www.indeed.com/cmp/Citizens-Bank
+416,Motorola Solutions,"$7,343.00 ","16,000",https://www.indeed.com/cmp/Motorola-Solutions
+417,Magellan Health,"$7,314.20 ","10,500",https://www.indeed.com/cmp/Magellan-Health-Services
+418,American Axle & Manufacturing,"$7,270.40 ","25,000","https://www.indeed.com/cmp/American-Axle-&-Manufacturing,-Inc."
+419,Newmont Goldcorp,"$7,253.00 ","12,442",https://www.indeed.com/cmp/Newmont-Mining
+420,Spirit AeroSystems Holdings,"$7,222.00 ","17,000",https://www.indeed.com/cmp/Spirit-Aerosystems
+421,Western & Southern Financial Group,"$7,205.00 ","2,769",https://www.indeed.com/cmp/Western-&-Southern-Life
+422,Fortive,"$7,203.20 ","24,000",https://www.indeed.com/cmp/Fortive
+423,Graybar Electric,"$7,202.50 ","8,700","https://www.indeed.com/cmp/Graybar-Electric-Company,-Inc."
+424,NVR,"$7,189.70 ","5,600","https://www.indeed.com/cmp/Nvr,-Inc"
+425,Avery Dennison,"$7,159.00 ","30,000",https://www.indeed.com/cmp/Avery-Dennison
+426,Celanese,"$7,155.00 ","7,684",https://www.indeed.com/cmp/Celanese
+427,American Financial Group,"$7,150.00 ","7,600",https://www.indeed.com/cmp/Great-American-Insurance-Group
+428,Toll Brothers,"$7,143.30 ","4,900",https://www.indeed.com/cmp/Toll-Brothers
+429,Sanmina,"$7,110.10 ","41,200",https://www.indeed.com/cmp/Sanmina-Corporation
+430,Insight Enterprises,"$7,080.10 ","7,420","https://www.indeed.com/cmp/Insight-Enterprises,-Inc."
+431,Owens Corning,"$7,057.00 ","20,000",https://www.indeed.com/cmp/Owens-Corning
+432,Packaging Corp. of America,"$7,014.60 ","15,000",https://www.indeed.com/cmp/Packaging-Corporation-of-America
+433,TravelCenters of America,"$6,973.60 ","18,277",https://www.indeed.com/cmp/Travelcenters-of-America
+434,Olin,"$6,946.10 ","6,500",https://www.indeed.com/cmp/Olin-Corporation
+435,Arthur J. Gallagher,"$6,934.00 ","30,362",https://www.indeed.com/cmp/Gallagher
+436,MasTec,"$6,909.40 ","19,000",https://www.indeed.com/cmp/Mastech-Digital
+437,Alleghany,"$6,887.20 ","9,300",https://www.indeed.com/cmp/Capspecialty
+438,Owens-Illinois,"$6,877.00 ","26,500",https://www.indeed.com/cmp/O--i-(owens--illinois)
+439,Asbury Automotive Group,"$6,874.40 ","8,200",https://www.indeed.com/cmp/Asbury-Automotive-Group
+440,CMS Energy,"$6,873.00 ","8,291",https://www.indeed.com/cmp/Cms-Energy
+441,Markel,"$6,841.30 ","17,400",https://www.indeed.com/cmp/Markel-Corporation
+442,Blackstone Group,"$6,833.30 ","2,615",https://www.indeed.com/cmp/Blackstone
+443,AK Steel Holding,"$6,818.20 ","9,500",https://www.indeed.com/cmp/Ak-Steel
+444,Hanesbrands,"$6,804.00 ","68,000",https://www.indeed.com/cmp/Hanesbrands
+445,R.R. Donnelley & Sons,"$6,800.20 ","39,500",https://www.indeed.com/cmp/Rr-Donnelley
+446,Wayfair,"$6,779.20 ","12,124",https://www.indeed.com/cmp/Wayfair
+447,Regions Financial,"$6,762.00 ","19,969",https://www.indeed.com/cmp/Regions-Bank
+448,Wynn Resorts,"$6,717.70 ","26,000",https://www.indeed.com/cmp/Wynn-Las-Vegas
+449,Ulta Beauty,"$6,716.60 ","30,000",https://www.indeed.com/cmp/Ulta
+450,Regeneron Pharmaceuticals,"$6,710.80 ","7,400",https://www.indeed.com/cmp/Regeneron
+451,Burlington Stores,"$6,668.50 ","44,000",https://www.indeed.com/cmp/Burlington-Stores
+452,Rockwell Automation,"$6,666.00 ","23,000",https://www.indeed.com/cmp/Rockwell-Automation
+453,Northern Trust,"$6,658.90 ","18,800",https://www.indeed.com/cmp/Northern-Trust-Corp.
+454,Chemours,"$6,638.00 ","7,000",https://www.indeed.com/cmp/Chemours
+455,Seaboard,"$6,583.00 ","12,600",https://www.indeed.com/cmp/Seaboard-Foods
+456,Marathon Oil,"$6,582.00 ","2,400",https://www.indeed.com/cmp/Marathon-Oil
+457,Ascena Retail Group,"$6,578.30 ","39,500",https://www.indeed.com/cmp/Ascena-Retail-Group
+458,Dillard's,"$6,503.30 ","31,005","https://www.indeed.com/cmp/Dillard's,-Inc."
+459,Cintas,"$6,487.40 ","41,000",https://www.indeed.com/cmp/Cintas
+460,Advanced Micro Devices,"$6,475.00 ","10,100",https://www.indeed.com/cmp/Amd
+461,Hess,"$6,466.00 ","1,708",https://www.indeed.com/cmp/Hess-Corporation
+462,M&T Bank Corp.,"$6,454.70 ","16,840",https://www.indeed.com/cmp/M&T-Bank
+463,ABM Industries,"$6,442.20 ","140,000","https://www.indeed.com/cmp/Abm-Industries,-Inc."
+464,Beacon Roofing Supply,"$6,418.30 ","8,356",https://www.indeed.com/cmp/Beacon-Roofing-Supply
+465,NCR,"$6,405.00 ","34,000",https://www.indeed.com/cmp/Ncr
+466,iHeartMedia,"$6,325.80 ","18,300","https://www.indeed.com/cmp/Iheartmedia,-Inc."
+467,Franklin Resources,"$6,319.10 ","9,691",https://www.indeed.com/cmp/Franklin-Templeton-Investments
+468,Ameren,"$6,291.00 ","8,838",https://www.indeed.com/cmp/Ameren
+469,Intercontinental Exchange,"$6,276.00 ","5,161",https://www.indeed.com/cmp/Intercontinental-Exchange
+470,S&P Global,"$6,258.00 ","21,200",https://www.indeed.com/cmp/S&P-Global
+471,Post Holdings,"$6,257.20 ","11,550",https://www.indeed.com/cmp/Post-Consumer-Brands
+472,Analog Devices,"$6,200.90 ","15,800",https://www.indeed.com/cmp/Analog-Devices
+473,Ralph Lauren,"$6,182.30 ","18,150",https://www.indeed.com/cmp/Ralph-Lauren
+474,L3Harris Technologies,"$6,182.00 ","17,500",https://www.indeed.com/cmp/L3-Technologies
+475,Booz Allen Hamilton,"$6,171.90 ","24,600",https://www.indeed.com/cmp/Booz-Allen-Hamilton
+476,Polaris Industries,"$6,166.00 ","12,000",https://www.indeed.com/cmp/Polaris-Industries
+477,Clorox,"$6,124.00 ","8,700",https://www.indeed.com/cmp/The-Clorox-Company
+478,Realogy Holdings,"$6,079.00 ","11,400",https://www.indeed.com/cmp/Realogy
+479,HD Supply Holdings,"$6,047.00 ","11,500",https://www.indeed.com/cmp/Hd-Supply
+480,Graphic Packaging Holding,"$6,023.00 ","18,000",https://www.indeed.com/cmp/Graphic-Packaging
+481,Old Republic International,"$6,021.80 ","9,000",https://www.indeed.com/cmp/Old-Republic-International
+482,Intuit,"$5,964.00 ","8,900",https://www.indeed.com/cmp/Intuit
+483,NetApp,"$5,911.00 ","10,300",https://www.indeed.com/cmp/Netapp
+484,Tapestry,"$5,880.00 ","16,900",https://www.indeed.com/cmp/Tapestry
+485,ON Semiconductor,"$5,878.30 ","35,700",https://www.indeed.com/cmp/On-Semiconductor
+486,Ingredion,"$5,841.00 ","11,000",https://www.indeed.com/cmp/Ingredion
+487,Zoetis,"$5,825.00 ","10,000",https://www.indeed.com/cmp/Zoetis
+488,Fiserv,"$5,823.00 ","24,000",https://www.indeed.com/cmp/Fiserv
+489,TreeHouse Foods,"$5,812.10 ","12,700",https://www.indeed.com/cmp/Treehouse-Foods
+490,Robert Half International,"$5,800.30 ","18,900",https://www.indeed.com/cmp/Robert-Half-Technology
+491,First American Financial,"$5,747.80 ","18,251",https://www.indeed.com/cmp/First-American
+492,Harley-Davidson,"$5,716.90 ","5,900",https://www.indeed.com/cmp/Harley--davidson
+493,Windstream Holdings,"$5,713.10 ","11,945",https://www.indeed.com/cmp/Windstream-Communications
+494,Yum Brands,"$5,688.00 ","34,000","https://www.indeed.com/cmp/Yum!-Brands,-Inc."
+495,Williams-Sonoma,"$5,671.60 ","19,800","https://www.indeed.com/cmp/Williams--sonoma,-Inc."
+496,Simon Property Group,"$5,657.90 ","4,150",https://www.indeed.com/cmp/Simon-Property-Group
+497,Navient,"$5,610.00 ","6,500",https://www.indeed.com/cmp/Navient
+498,Western Union,"$5,589.90 ","12,000",https://www.indeed.com/cmp/Western-Union
+499,Peabody Energy,"$5,581.80 ","7,400",https://www.indeed.com/cmp/Peabody-Energy
+500,Levi Strauss,"$5,575.40 ","15,100",https://www.indeed.com/cmp/Levi-Strauss-&-Co.
